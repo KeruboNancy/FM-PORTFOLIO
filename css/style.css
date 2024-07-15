@@ -403,6 +403,11 @@ button {
     top: 0;
 }
 
+.banner_text{
+    color:#dad9dc;
+    font-weight:800;
+}
+
 
 /*------------------------------- vertical carousel indicators ------------------------------*/
 
